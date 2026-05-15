@@ -1,6 +1,5 @@
 {
-  "index": "Introduction",
-  "getting-started": "Getting Started",
+  "introduction": "Introduction",
   "aleo-instructions": "Aleo Instructions",
   "standard-programs": "Standard Programs",
   "solidity-to-leo": "Solidity to Leo",
